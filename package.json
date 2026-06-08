@@ -1,0 +1,6 @@
+{
+"name":"smart-situation-assistant",
+"private":true,
+"scripts":{"dev":"vite"},
+"dependencies":{"react":"^18.0.0","axios":"^1.0.0"}
+}
